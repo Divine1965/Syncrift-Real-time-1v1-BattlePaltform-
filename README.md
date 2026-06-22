@@ -14,15 +14,6 @@
 
 ---
 
-## Getting Started
-
-You can explore the live platform here:  
-👉 [https://syncrift.me](https://syncrift.me)
-
-Or set it up locally by following the instructions below.  
-
----
-
 ## Setup Instructions
 
 ### 1. Clone the Repository
